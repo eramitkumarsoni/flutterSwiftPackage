@@ -1,0 +1,15 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/amitsoni/Documents/Cadmium Projects/AppointmentFlutterMain/build/ios/framework/Release/iphoneos/Release-iphoneos/media_kit_video/media_kit_video.framework/media_kit_video'
+relocations:
+  - { offset: 0x51035, size: 0x8, addend: 0x0, symName: _media_kit_videoVersionString, symObjAddr: 0x0, symBinAddr: 0x5FF0, symSize: 0x0 }
+  - { offset: 0x5106C, size: 0x8, addend: 0x0, symName: _media_kit_videoVersionNumber, symObjAddr: 0x30, symBinAddr: 0x6020, symSize: 0x0 }
+  - { offset: 0x510AA, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
+  - { offset: 0x5115B, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginCMa', symObjAddr: 0x58, symBinAddr: 0x4058, symSize: 0x20 }
+  - { offset: 0x511A5, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginC8register4withySo07FlutterG9Registrar_p_tFZ', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0x4 }
+  - { offset: 0x511D9, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginC8register4withySo07FlutterG9Registrar_p_tFZTo', symObjAddr: 0x4, symBinAddr: 0x4004, symSize: 0x4 }
+  - { offset: 0x511ED, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginCACycfC', symObjAddr: 0x8, symBinAddr: 0x4008, symSize: 0x20 }
+  - { offset: 0x51201, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginCACycfc', symObjAddr: 0x28, symBinAddr: 0x4028, symSize: 0x30 }
+  - { offset: 0x51239, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginCACycfcTo', symObjAddr: 0x78, symBinAddr: 0x4078, symSize: 0x3C }
+  - { offset: 0x5126E, size: 0x8, addend: 0x0, symName: '_$s15media_kit_video19MediaKitVideoPluginCfD', symObjAddr: 0xB4, symBinAddr: 0x40B4, symSize: 0x30 }
+...

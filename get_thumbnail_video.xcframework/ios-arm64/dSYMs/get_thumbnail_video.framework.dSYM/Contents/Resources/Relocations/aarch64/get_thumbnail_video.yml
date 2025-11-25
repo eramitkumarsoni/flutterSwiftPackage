@@ -1,0 +1,17 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/amitsoni/Documents/Cadmium Projects/AppointmentFlutterMain/build/ios/framework/Release/iphoneos/Release-iphoneos/get_thumbnail_video/get_thumbnail_video.framework/get_thumbnail_video'
+relocations:
+  - { offset: 0x5B1F9, size: 0x8, addend: 0x0, symName: _get_thumbnail_videoVersionString, symObjAddr: 0x0, symBinAddr: 0x5700, symSize: 0x0 }
+  - { offset: 0x5B22E, size: 0x8, addend: 0x0, symName: _get_thumbnail_videoVersionNumber, symObjAddr: 0x38, symBinAddr: 0x5738, symSize: 0x0 }
+  - { offset: 0x5B26B, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offset: 0x5B2BD, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin registerWithRegistrar:]', symObjAddr: 0x0, symBinAddr: 0x4000, symSize: 0xA0 }
+  - { offset: 0x5B31C, size: 0x8, addend: 0x0, symName: '-[VideoThumbnailPlugin handleMethodCall:result:]', symObjAddr: 0xA0, symBinAddr: 0x40A0, symSize: 0x504 }
+  - { offset: 0x5B563, size: 0x8, addend: 0x0, symName: '___48-[VideoThumbnailPlugin handleMethodCall:result:]_block_invoke', symObjAddr: 0x5A4, symBinAddr: 0x45A4, symSize: 0x68 }
+  - { offset: 0x5B629, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x60C, symBinAddr: 0x460C, symSize: 0x3C }
+  - { offset: 0x5B652, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x648, symBinAddr: 0x4648, symSize: 0x30 }
+  - { offset: 0x5B671, size: 0x8, addend: 0x0, symName: '___48-[VideoThumbnailPlugin handleMethodCall:result:]_block_invoke.29', symObjAddr: 0x678, symBinAddr: 0x4678, symSize: 0x330 }
+  - { offset: 0x5B802, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b, symObjAddr: 0x9A8, symBinAddr: 0x49A8, symSize: 0x44 }
+  - { offset: 0x5B82B, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0x9EC, symBinAddr: 0x49EC, symSize: 0x38 }
+  - { offset: 0x5B84A, size: 0x8, addend: 0x0, symName: '+[VideoThumbnailPlugin generateThumbnail:headers:format:maxHeight:maxWidth:timeMs:quality:]', symObjAddr: 0xA24, symBinAddr: 0x4A24, symSize: 0x478 }
+...
